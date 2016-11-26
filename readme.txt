@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 GitHub done.
 Creating a new branch is quick.
-master branch update.
+Create branch is simple and quick.
